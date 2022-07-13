@@ -6,7 +6,7 @@ theme = "hyde"
 title = "QuickSite"
 [[Menus.main]]
 Name = "About"
-URL = "#about"
+URL = "*/about"
 [params]
 description = "A quick desctription."
 disqusShortname = ""
