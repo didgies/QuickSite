@@ -10,3 +10,5 @@ menu:
 <p class="message">
 Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
+
+Here you can add information about yourself, your business, and/or your website. Enjoy!
