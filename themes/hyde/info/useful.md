@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Example content
+title: Useful HTML info
 date: 2012-02-07T00:00:00.000+00:00
 
 ---
 <div class="message">
 Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
-
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 ## Inline HTML elements
 
