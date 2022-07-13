@@ -3,12 +3,12 @@ languageCode = "en-us"
 paginate = 5
 relativeURLs = true
 theme = "hyde"
-title = "MySite"
+title = "QuickSite"
 [[Menus.main]]
 Name = "About"
-URL = "content/about"
+URL = "/content/about"
 [params]
-description = "A short desctription of My Site"
+description = "A quick desctription."
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = true
