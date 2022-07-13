@@ -28,7 +28,7 @@ sections:
   label: Hugo/Hyde Info
 - type: directory
   path: themes/hyde/info
-  label: Themes/hyde/info
+  label: Info
   create: all
   match: "**/*"
 upload_dir: static/uploads
