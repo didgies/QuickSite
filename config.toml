@@ -1,3 +1,16 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "/"
+languageCode = "en-us"
+paginate = 5
+relativeURLs = true
+theme = "hyde"
+title = "MySite"
+[[Menus.main]]
+Name = "About"
+URL = "content/about"
+[params]
+description = "A short desctription of My Site"
+disqusShortname = ""
+googleAnalytics = ""
+layoutReverse = true
+theme = "hyde"
+themeColor = "theme-base-08"
