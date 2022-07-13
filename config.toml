@@ -8,7 +8,7 @@ title = "QuickSite"
 Name = "About"
 URL = "about"
 [params]
-description = "A quick desctription."
+description = "A site template."
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = true
