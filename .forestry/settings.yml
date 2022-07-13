@@ -28,7 +28,9 @@ sections:
   label: Hugo/Hyde Info
 - type: directory
   path: themes/hyde/info
-  read_only: true
+  label: Themes/hyde/info
+  create: all
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
