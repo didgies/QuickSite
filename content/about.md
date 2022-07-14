@@ -8,12 +8,12 @@ menu:
 draft: false
 
 ---
+Here you might add information about yourself, your business, and/or your website.
+
+**Enjoy!**
+
 ## About QuickSite
 
 ##### Our Mission:
 
-This page is an example.
-
-> Here you might add information about yourself, your business, and/or your website.
-
-**Enjoy!**
+> This page is an example.

@@ -4,7 +4,7 @@ paginate = 5
 relativeURLs = true
 theme = "hyde"
 title = "QuickSite"
-summaryLength = 2
+summaryLength = 12
 enableEmoji = true
 
 [[Menus.main]]
