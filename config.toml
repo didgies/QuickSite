@@ -7,7 +7,7 @@ title = "QuickSite"
 summaryLength = 2
 [[Menus.main]]
 Name = "About"
-URL = "/about/"
+URL = "/*"
 [params]
 description = "A website template."
 disqusShortname = ""
