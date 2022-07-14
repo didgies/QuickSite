@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 paginate = 5
-relativeURLs = false
+relativeURLs = true
 theme = "hyde"
 title = "QuickSite"
 summaryLength = 2
