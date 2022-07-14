@@ -5,9 +5,12 @@ relativeURLs = true
 theme = "hyde"
 title = "QuickSite"
 summaryLength = 2
+enableEmoji = true
+
 [[Menus.main]]
 Name = "About"
-URL = "/*"
+URL = "about"
+
 [params]
 description = "A website template."
 disqusShortname = ""
@@ -15,6 +18,7 @@ googleAnalytics = ""
 layoutReverse = true
 theme = "hyde"
 themeColor = "theme-base-0e"
+
 [sitemap]
   changefreq = 'monthly'
   filename = 'sitemap.xml'
