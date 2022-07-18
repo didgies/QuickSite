@@ -9,7 +9,7 @@ enableEmoji = true
 
 [[Menus.main]]
 Name = "About"
-URL = "about"
+URL = "/about"
 
 [params]
 description = "A website template."
